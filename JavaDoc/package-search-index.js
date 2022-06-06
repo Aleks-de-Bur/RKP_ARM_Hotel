@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.hotel.arm_hotel","l":"com.hotel.arm_hotel"},{"m":"com.hotel.arm_hotel","l":"com.hotel.arm_hotel.Classes"},{"m":"com.hotel.arm_hotel","l":"com.hotel.arm_hotel.Controllers"}];updateSearchResults();

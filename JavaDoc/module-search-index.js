@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"com.hotel.arm_hotel"}];updateSearchResults();
